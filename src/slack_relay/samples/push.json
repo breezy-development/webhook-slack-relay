@@ -1,0 +1,28 @@
+{
+  "ref": "refs/heads/main",
+  "before": "6113728f27ae82c7b1a177c8d03f9e96e0adf246",
+  "after": "0d1a26e67d8f5eaf1f6ba5c57fc3c7d91ac0fd1c",
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "compare": "https://github.com/acme/storefront/compare/6113728f27ae...0d1a26e67d8f",
+  "commits": [
+    {
+      "id": "a3f9c2e1b7d04e8f9a6b5c4d3e2f1a0b9c8d7e6f",
+      "message": "Add CSV export to the orders page\n\nCloses #41",
+      "url": "https://github.com/acme/storefront/commit/a3f9c2e1b7d04e8f9a6b5c4d3e2f1a0b9c8d7e6f",
+      "author": { "name": "Dana Lee", "email": "dana@example.com", "username": "danalee" }
+    },
+    {
+      "id": "0d1a26e67d8f5eaf1f6ba5c57fc3c7d91ac0fd1c",
+      "message": "Fix rounding of tax totals for <$1 items",
+      "url": "https://github.com/acme/storefront/commit/0d1a26e67d8f5eaf1f6ba5c57fc3c7d91ac0fd1c",
+      "author": { "name": "Sam Ortiz", "email": "sam@example.com", "username": "sortiz" }
+    }
+  ],
+  "repository": {
+    "full_name": "acme/storefront",
+    "html_url": "https://github.com/acme/storefront"
+  },
+  "sender": { "login": "danalee" }
+}

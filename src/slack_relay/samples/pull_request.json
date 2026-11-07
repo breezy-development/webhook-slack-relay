@@ -1,0 +1,21 @@
+{
+  "action": "opened",
+  "number": 42,
+  "pull_request": {
+    "number": 42,
+    "title": "Nightly inventory sync from the supplier API",
+    "html_url": "https://github.com/acme/storefront/pull/42",
+    "body": "Pulls stock levels every night at 02:00 and flags SKUs below the reorder point.\n\nTested against the sandbox.",
+    "merged": false,
+    "additions": 214,
+    "deletions": 18,
+    "changed_files": 7,
+    "head": { "ref": "feature/inventory-sync" },
+    "base": { "ref": "main" }
+  },
+  "repository": {
+    "full_name": "acme/storefront",
+    "html_url": "https://github.com/acme/storefront"
+  },
+  "sender": { "login": "sortiz" }
+}

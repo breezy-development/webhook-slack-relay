@@ -1,0 +1,14 @@
+{
+  "action": "published",
+  "release": {
+    "tag_name": "v2.4.0",
+    "name": "v2.4.0 — Faster checkout",
+    "html_url": "https://github.com/acme/storefront/releases/tag/v2.4.0",
+    "prerelease": false
+  },
+  "repository": {
+    "full_name": "acme/storefront",
+    "html_url": "https://github.com/acme/storefront"
+  },
+  "sender": { "login": "danalee" }
+}

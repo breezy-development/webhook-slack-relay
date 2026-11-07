@@ -1,0 +1,14 @@
+{
+  "action": "opened",
+  "issue": {
+    "number": 57,
+    "title": "Checkout button unresponsive on Safari 18",
+    "html_url": "https://github.com/acme/storefront/issues/57",
+    "labels": [{ "name": "bug" }, { "name": "priority: high" }]
+  },
+  "repository": {
+    "full_name": "acme/storefront",
+    "html_url": "https://github.com/acme/storefront"
+  },
+  "sender": { "login": "support-bot" }
+}

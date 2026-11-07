@@ -1,0 +1,17 @@
+{
+  "action": "completed",
+  "workflow_run": {
+    "name": "tests",
+    "run_number": 318,
+    "conclusion": "failure",
+    "head_branch": "feature/inventory-sync",
+    "head_sha": "9b2e4c7d1f0a8e6b5c3d2a1f0e9d8c7b6a5f4e3d",
+    "display_title": "Nightly inventory sync from the supplier API",
+    "html_url": "https://github.com/acme/storefront/actions/runs/1234567890"
+  },
+  "repository": {
+    "full_name": "acme/storefront",
+    "html_url": "https://github.com/acme/storefront"
+  },
+  "sender": { "login": "sortiz" }
+}
