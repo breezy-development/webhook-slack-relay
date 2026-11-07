@@ -1,5 +1,7 @@
 # webhook-slack-relay
 
+[![tests](https://github.com/breezy-development/webhook-slack-relay/actions/workflows/tests.yml/badge.svg)](https://github.com/breezy-development/webhook-slack-relay/actions/workflows/tests.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A small, reliable service that turns **GitHub webhooks into clean Slack notifications**. It
 verifies every request's signature, drops duplicate deliveries, posts readable Block Kit
 messages, retries when Slack is rate-limiting or down, and keeps a delivery log so nothing is
